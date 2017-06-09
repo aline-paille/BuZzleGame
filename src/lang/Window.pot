@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2017-05-26 11:31+Pacific Daylight Time\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp1252\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: Window.py:22
+msgid "BUZzLE"
+msgstr ""
+
+#: Window.py:37
+msgid "Game"
+msgstr ""
+
+#: Window.py:38
+msgid "Home"
+msgstr ""
+
+#: Window.py:39
+msgid "Exit"
+msgstr ""
+
+#: Window.py:49
+msgid "Languages"
+msgstr ""
+
+#: Window.py:50
+msgid "French"
+msgstr ""
+
+#: Window.py:51
+msgid "English"
+msgstr ""
+
+#: Window.py:54 Window.py:55
+msgid "Help"
+msgstr ""
+
+#: Window.py:56
+msgid "About"
+msgstr ""
+

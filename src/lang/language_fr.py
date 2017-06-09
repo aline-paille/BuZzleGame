@@ -1,0 +1,25 @@
+#!/usr/bin/python3.1
+
+LABEL_LANGUAGE_SELECTION="Choisi une langue:"
+LABEL_FRENCH_LANGUAGE="Français"
+LABEL_ENGLISH_LANGUAGE="Anglais"
+
+LABEL_SOLVER="Solveur"
+LABEL_JOCKER="Jocker"
+LABEL_DIFFICUTY="Cases noires"
+LABEL_BEE="Clique pour valider le mot"
+LABEL_TIME="Temps restant"
+LABEL_POINTS="Points"
+
+MENU_LABEL_GAME="Jeu"
+MENU_LABEL_QUIT="Quitter"
+MENU_LABEL_NEW="Nouveau"
+MENU_LABEL_LANGUAGES="Langues"
+
+LABEL_ABOUT_MENU="A propos"
+LAEL_HELP_MENU="Aide"
+
+CHECK_BUTTON_YES="Oui"
+CHECK_BUTTON_NO="Non"
+CHECK_BUTTON_GRAPH="Graph"
+CHECK_BUTON_DICTIONNARY="Dictionnaire"

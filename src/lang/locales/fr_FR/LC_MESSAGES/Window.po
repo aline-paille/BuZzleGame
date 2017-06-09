@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-05-26 11:34-0700\n"
+"PO-Revision-Date: 2017-05-26 11:35-0700\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.0.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#: Window.py:22
+msgid "BUZzLE"
+msgstr "BUZzLE"
+
+#: Window.py:37
+msgid "Game"
+msgstr "Jeu"
+
+#: Window.py:38
+msgid "Home"
+msgstr "Acceuil"
+
+#: Window.py:39
+msgid "Exit"
+msgstr "Quitter"
+
+#: Window.py:49
+msgid "Languages"
+msgstr "Langages"
+
+#: Window.py:50
+msgid "French"
+msgstr "Français"
+
+#: Window.py:51
+msgid "English"
+msgstr "Anglais"
+
+#: Window.py:54 Window.py:55
+msgid "Help"
+msgstr "Aide"
+
+#: Window.py:56
+msgid "About"
+msgstr "A propos"
