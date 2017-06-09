@@ -1,0 +1,7 @@
+- make selection of a word of less than 2 letters impossible
+- make switch language possible from the menu bar
+- fix bug english language
+- make AboutWindow
+- make HelpWindow
+- separate in another file the creation of TXT light dictionary from the XML heavy dictionary
+- show/hide the solutions of the grid
