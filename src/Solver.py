@@ -15,7 +15,7 @@ class Solver:
         self.g = graphParent
         self.graph = self.g.graph
         self.d = dicoParent
-        self.dico = dicoParent.dicoTree
+        self.dico = dicoParent.trie
         self.lettersList = lettersList
         self.solver = solver
         self.solution = self.setSolverType(solver)
