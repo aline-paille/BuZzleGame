@@ -5,3 +5,5 @@
 - make HelpWindow
 - separate in another file the creation of TXT light dictionary from the XML heavy dictionary
 - show/hide the solutions of the grid
+- 4 black cases whitout any letter
+- 2 jockers (='*') this case represent any letter
