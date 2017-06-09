@@ -1,6 +1,7 @@
 #!/usr/bin/python3.1
 import string
 from re import *
+from Variables import *
 
 class Dictionary:
     def __init__(self, language):
@@ -48,12 +49,14 @@ class Dictionary:
         fic.close()
     
     def get_dico_correct(self, file, language):
-        #if language == "francais":
-        L = self.getDicoFromXMLFile("../dictionaries/dela-fr-public-u8.dic.xml")
-        #elif language == "anglais" :
-        #    L = self.recup_fic_in_liste("Dictionnaire/words")      
-        #else : 
-        #    print("erreur : mauvaise language demandée")
+        #TODO: create new function to use directly my .txt file of each language
+        if language == FRENCH_LANGUAGE:
+        	L = self.getDicoFromXMLFile("../dictionaries/dela-fr-public-u8.dic.xml")
+        elif language == ENGLISH_LANGUAGE :
+		#L = self.getDicoFromXMLFile("../dictionaries/dela-en-public-u8_2.dic.xml")
+            L = self.getDicoFromXMLFile("../dictionaries/dela-fr-public-u8.dic.xml")
+        else : 
+            print("error : bad language askeds")
         Lbis = self.lowerList(L)
         L1 = self.deleteAccentuation(Lbis)
         L2 = self.deleteWordsAccentuated(L1)
